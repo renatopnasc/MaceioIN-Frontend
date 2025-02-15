@@ -1,6 +1,4 @@
-# Vue 3 + Vite Project
-
-Este é um projeto inicial para um aplicativo Vue 3 utilizando Vite como bundler.
+# MaceióIN - Frontend
 
 ## Pré-requisitos
 
